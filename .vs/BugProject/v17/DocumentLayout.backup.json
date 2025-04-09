@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\migrations\\20250409233345_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\migrations\\20250409233345_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\dataaccessextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\dataaccessextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\unitofworks\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\entities configration\\bugconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\entities configration\\bugconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\repository\\bug\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\repository\\bug\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\repository\\bug\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\repository\\bug\\ibugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F5B5-5F07-4F1D-88AA-095C560BAB90}|BugProject\\BugProject.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B101F5B5-5F07-4F1D-88AA-095C560BAB90}|BugProject\\BugProject.csproj|solutionrelative:bugproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\models\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\bugproject.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\bugproject.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\repository\\project\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\repository\\project\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\repository\\project\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\repository\\project\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\context\\bugcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\context\\bugcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\entities configration\\userconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\entities configration\\userconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\entities configration\\attachmentconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\entities configration\\attachmentconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B101F5B5-5F07-4F1D-88AA-095C560BAB90}|BugProject\\BugProject.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B101F5B5-5F07-4F1D-88AA-095C560BAB90}|BugProject\\BugProject.csproj|solutionrelative:bugproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\entities configration\\projectconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\entities configration\\projectconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|f:\\iti 4 month\\offline courses\\web courses\\.net\\api \u0026 mvc\\project\\bugproject\\bugproject.dl\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E58E8C4-324A-4815-BD02-32772517BC68}|BugProject.DL\\BugProject.DL.csproj|solutionrelative:bugproject.dl\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BugConfigration.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\BugConfigration.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Entities Configration\\BugConfigration.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\BugConfigration.cs",
+              "RelativeToolTip": "BugProject.DL\\Entities Configration\\BugConfigration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:51:15.337Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250409233345_first.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Migrations\\20250409233345_first.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Migrations\\20250409233345_first.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Migrations\\20250409233345_first.cs",
+              "RelativeToolTip": "BugProject.DL\\Migrations\\20250409233345_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T23:33:46.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "BugProject.DL\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:56:58.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\UnitOfWorks\\IUnitOfWork.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\UnitOfWorks\\IUnitOfWork.cs",
+              "RelativeToolTip": "BugProject.DL\\UnitOfWorks\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T22:55:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:823299570:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessExtention.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\DataAccessExtention.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\DataAccessExtention.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\DataAccessExtention.cs",
+              "RelativeToolTip": "BugProject.DL\\DataAccessExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:58:42.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Models\\Attachment.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Attachment.cs",
+              "RelativeToolTip": "BugProject.DL\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:26:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BugRepository.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Bug\\BugRepository.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Repository\\Bug\\BugRepository.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Bug\\BugRepository.cs",
+              "RelativeToolTip": "BugProject.DL\\Repository\\Bug\\BugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:38:15.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject\\Program.cs",
+              "RelativeDocumentMoniker": "BugProject\\Program.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject\\Program.cs",
+              "RelativeToolTip": "BugProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T20:25:55.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBugRepository.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Bug\\IBugRepository.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Repository\\Bug\\IBugRepository.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Bug\\IBugRepository.cs",
+              "RelativeToolTip": "BugProject.DL\\Repository\\Bug\\IBugRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:46:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Project\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Repository\\Project\\ProjectRepository.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Project\\ProjectRepository.cs",
+              "RelativeToolTip": "BugProject.DL\\Repository\\Project\\ProjectRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:18:51.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BugProject.DL",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\BugProject.DL.csproj",
+              "RelativeDocumentMoniker": "BugProject.DL\\BugProject.DL.csproj",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\BugProject.DL.csproj",
+              "RelativeToolTip": "BugProject.DL\\BugProject.DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T22:37:35.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProjectRepository.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Project\\IProjectRepository.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Repository\\Project\\IProjectRepository.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Repository\\Project\\IProjectRepository.cs",
+              "RelativeToolTip": "BugProject.DL\\Repository\\Project\\IProjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:21:59.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserConfigration.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\UserConfigration.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Entities Configration\\UserConfigration.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\UserConfigration.cs",
+              "RelativeToolTip": "BugProject.DL\\Entities Configration\\UserConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:15:41.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BugContext.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Context\\BugContext.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Context\\BugContext.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Context\\BugContext.cs",
+              "RelativeToolTip": "BugProject.DL\\Context\\BugContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:40:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttachmentConfigrations.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\AttachmentConfigrations.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Entities Configration\\AttachmentConfigrations.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\AttachmentConfigrations.cs",
+              "RelativeToolTip": "BugProject.DL\\Entities Configration\\AttachmentConfigrations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:13:34.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectConfigration.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\ProjectConfigration.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Entities Configration\\ProjectConfigration.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Entities Configration\\ProjectConfigration.cs",
+              "RelativeToolTip": "BugProject.DL\\Entities Configration\\ProjectConfigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:10:51.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Models\\User.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\User.cs",
+              "RelativeToolTip": "BugProject.DL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:33:00.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bug.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Bug.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Models\\Bug.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Bug.cs",
+              "RelativeToolTip": "BugProject.DL\\Models\\Bug.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:16:18.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Project.cs",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "BugProject.DL\\Models\\Project.cs",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject.DL\\Models\\Project.cs",
+              "RelativeToolTip": "BugProject.DL\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:14:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BugProject\\appsettings.json",
+              "ToolTip": "F:\\iti 4 month\\offline courses\\web courses\\.NET\\API \u0026 MVC\\Project\\BugProject\\BugProject\\appsettings.json",
+              "RelativeToolTip": "BugProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T11:49:02.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
