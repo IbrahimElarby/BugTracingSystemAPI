@@ -89,6 +89,12 @@ namespace BugProject
                         .RequireClaim(ClaimTypes.Role, "Developer")
                         .RequireClaim(ClaimTypes.NameIdentifier)
                 );
+                options.AddPolicy(
+                  Constatnts.Policies.ForTester,
+                  builder => builder
+                      .RequireClaim(ClaimTypes.Role, "Developer", "Tester")
+                      .RequireClaim(ClaimTypes.NameIdentifier)
+              );
 
             });
             var app = builder.Build();
@@ -99,7 +105,7 @@ namespace BugProject
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseCors("MyPolicy");
 

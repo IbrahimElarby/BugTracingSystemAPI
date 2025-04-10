@@ -3,8 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
+using Attachment = BugProject.DL.Attachment;
 
 namespace BugProject.BL
 {
@@ -148,6 +150,137 @@ namespace BugProject.BL
 
             await unitOfWork.SaveChangesAsync();
             return new GeneralResult { Success = true };
+        }
+
+        public async Task<List<AttachmentReadDTO>> GetAttachment(Guid id)
+        {
+            var bug = await unitOfWork.BugRepository.GetById(id);
+            if (bug == null)
+            {
+                return null;
+            }
+
+            return bug.Attachments.Select(a=>  new AttachmentReadDTO
+            { FileName = a.FileName,
+            FilePath = a.FilePath,
+            Id = a.Id}).ToList();
+        }
+
+        public async Task<GeneralResult> AddAtatchment(Guid bugId, AttachmentReadDTO attachment)
+        {
+            try
+            {
+                var bug = await unitOfWork.BugRepository.GetById(bugId);
+                if (bug == null)
+                {
+                    return new GeneralResult
+                    {
+                        Success = false,
+                        Errors = [new ResultError { Code = "NullInput", Message = "bug cannot be null" }]
+                    };
+                }
+                if (attachment == null)
+                {
+                    return new GeneralResult
+                    {
+                        Success = false,
+                        Errors = [new ResultError { Code = "NullInput", Message = "attachment cannot be null" }]
+                    };
+                }
+                var attach = new Attachment
+                {
+                    FileName = attachment.FileName,
+                    FilePath = attachment.FilePath,
+                    Id = attachment.Id,
+                };
+                bug.Attachments.Add(attach);
+                var saveResult = await unitOfWork.SaveChangesAsync();
+
+                return saveResult > 0
+                    ? new GeneralResult { Success = true }
+                    : new GeneralResult { Success = false, Errors = [new ResultError { Code = "SaveFailed", Message = "No changes persisted" }] };
+            }
+            catch (DbUpdateException ex)
+            {
+                return new GeneralResult
+                {
+                    Success = false,
+                    Errors = [new ResultError
+            {
+                Code = "DatabaseError",
+                Message = $"Failed to save Bug: {ex.InnerException?.Message ?? ex.Message}"
+            }]
+                };
+            }
+            catch (Exception ex)
+            {
+                return new GeneralResult
+                {
+                    Success = false,
+                    Errors = [new ResultError
+            {
+                Code = "AddFailed",
+                Message = $"Unexpected error: {ex.Message}"
+            }]
+                };
+            }
+        }
+
+        public async Task<GeneralResult> DeleteAttachment(Guid bugId, Guid attId)
+        {
+
+            try
+            {
+                var bug = await unitOfWork.BugRepository.GetById(bugId);
+                if (bug == null)
+                {
+                    return new GeneralResult
+                    {
+                        Success = false,
+                        Errors = [new ResultError { Code = "NullInput", Message = "bug cannot be null" }]
+                    };
+                }
+             
+                var attachment = bug.Attachments.FirstOrDefault(a=>a.Id == attId);
+                if (attachment == null)
+                {
+                    return new GeneralResult
+                    {
+                        Success = false,
+                        Errors = [new ResultError { Code = "NullInput", Message = "attachment cannot be null" }]
+                    };
+                }
+                bug.Attachments.Remove(attachment);
+                var saveResult = await unitOfWork.SaveChangesAsync();
+
+                return saveResult > 0
+                    ? new GeneralResult { Success = true }
+                    : new GeneralResult { Success = false, Errors = [new ResultError { Code = "SaveFailed", Message = "No changes persisted" }] };
+            }
+            catch (DbUpdateException ex)
+            {
+                return new GeneralResult
+                {
+                    Success = false,
+                    Errors = [new ResultError
+            {
+                Code = "DatabaseError",
+                Message = $"Failed to save Bug: {ex.InnerException?.Message ?? ex.Message}"
+            }]
+                };
+            }
+            catch (Exception ex)
+            {
+                return new GeneralResult
+                {
+                    Success = false,
+                    Errors = [new ResultError
+            {
+                Code = "AddFailed",
+                Message = $"Unexpected error: {ex.Message}"
+            }]
+                };
+            }
         }
     }
 }

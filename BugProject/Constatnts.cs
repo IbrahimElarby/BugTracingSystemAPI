@@ -6,6 +6,7 @@
         {
             public const string ForAdminOnly = "ForAdminOnly";
             public const string ForDev = "ForDev";
+            public const string ForTester = "ForTester";
         }
     }
 
