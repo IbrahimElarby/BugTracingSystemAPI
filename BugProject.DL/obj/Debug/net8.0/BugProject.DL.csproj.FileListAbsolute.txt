@@ -7,6 +7,7 @@ F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\Bug
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.AssemblyInfoInputs.cache
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.AssemblyInfo.cs
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.csproj.CoreCompileInputs.cache
+F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.sourcelink.json
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.dll
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\refint\BugProject.DL.dll
 F:\iti 4 month\offline courses\web courses\.NET\API & MVC\Project\BugProject\BugProject.DL\obj\Debug\net8.0\BugProject.DL.pdb

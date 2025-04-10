@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BugProject.DL
 {
-    public class BugContext : IdentityDbContext<User, IdentityRole<Guid>, Guid>
+    public class BugContext : IdentityDbContext<User, Role, Guid>
     {
         public BugContext(DbContextOptions options) : base(options)
         {

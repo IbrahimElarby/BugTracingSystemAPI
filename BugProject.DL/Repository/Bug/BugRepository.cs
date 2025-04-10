@@ -39,27 +39,33 @@ namespace BugProject.DL
             await bugContext.Set<Bug>().AddAsync(bug);
         }
 
-        //public async Task<bool> AssignUserAsync(Guid bugId, Guid userId)
-        //{
-        //    var bug = await (bugId);
-        //    var user = await GetUserByIdAsync(userId);
-        //    if (bug == null || user == null || bug.Assignees.Any(u => u.Id == userId)) return false;
+        public async Task<User?> GetUserByIdAsync(Guid userId)
+        {
+            return await bugContext.Users.FindAsync(userId);
+        }
 
-        //    bug.Assignees.Add(user);
-        //    return true;
-        //}
 
-        //public async Task<bool> UnassignUserAsync(Guid bugId, Guid userId)
-        //{
-        //    var bug = await GetByIdAsync(bugId);
-        //    if (bug == null) return false;
 
-        //    var user = bug.Assignees.FirstOrDefault(u => u.Id == userId);
-        //    if (user == null) return false;
+        public async Task<bool> AssignUserAsync(Guid bugId, Guid userId)
+        {
+            var bug = await GetById (bugId);
+            var user = await GetUserByIdAsync(userId);
+            if (bug == null || user == null || bug.Assignees.Any(u => u.Id == userId)) return false;
 
-        //    bug.Assignees.Remove(user);
-        //    await _context.SaveChangesAsync();
-        //    return true;
-        //}
+            bug.Assignees.Add(user);
+            return true;
+        }
+
+        public async Task<bool> UnassignUserAsync(Guid bugId, Guid userId)
+        {
+            var bug = await GetById(bugId);
+            if (bug == null) return false;
+
+            var user = bug.Assignees.FirstOrDefault(u => u.Id == userId);
+            if (user == null) return false;
+
+            bug.Assignees.Remove(user);
+            return true;
+        }
     }
 }

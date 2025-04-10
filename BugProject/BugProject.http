@@ -1,6 +1,15 @@
-@BugProject_HostAddress = http://localhost:5139
+@BugProject_HostAddress = https://localhost:7021
 
 GET {{BugProject_HostAddress}}/weatherforecast/
 Accept: application/json
+
+###
+
+POST {{BugProject_HostAddress}}/api/project
+Content-Type: application/json
+
+{
+  //ProjectWriteDTO
+}
 
 ###
